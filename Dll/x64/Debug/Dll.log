@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  memanalyze.cpp
+d:\УНИВЕР\Ваня_Лабс\OSISP3\Dll\memanalyze.cpp(10,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\УНИВЕР\Ваня_Лабс\OSISP3\Dll\memanalyze.cpp(11,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+     Создается библиотека D:\УНИВЕР\Ваня_Лабс\OSISP3\x64\Debug\Dll.lib и объект D:\УНИВЕР\Ваня_Лабс\OSISP3\x64\Debug\Dll.exp
+  Dll.vcxproj -> D:\УНИВЕР\Ваня_Лабс\OSISP3\x64\Debug\Dll.dll
